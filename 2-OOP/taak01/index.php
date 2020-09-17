@@ -1,6 +1,6 @@
 <?php
 
-class auto(){
+class auto (){
     $merk;
     $kleur;
     $type;
